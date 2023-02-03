@@ -1,0 +1,14 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.intro-pic {
+    width:50%;
+    height:auto;
+}
+
+.fried-chicken-list .ul-list{
+    font-weight:800;
+    color:green;
+}
