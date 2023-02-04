@@ -1,6 +1,7 @@
 html {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
+    background-color: rgb(219, 219, 219);
 }
 
 .intro-pic {
@@ -8,7 +9,6 @@ html {
     height:auto;
 }
 
-.fried-chicken-list .ul-list{
-    font-weight:800;
-    color:green;
+.ul-list p{
+    font-weight: 550;
 }
